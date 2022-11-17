@@ -14,4 +14,6 @@ public:
 
 	void forward(Layer* prevLayer);
 
+	NPR layerNPR(std::vector<float> layerNudges);
+
 };
