@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Projects\NN Backpropagation\NN BP\helper.h(6,18): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Projects\NN Backpropagation\NN BP\helper.h(26,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Projects\NN Backpropagation\NN BP\main.cpp(9,44): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+  NN BP.vcxproj -> C:\Projects\NN Backpropagation\NN BP\x64\Debug\NN BP.exe
